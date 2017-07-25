@@ -1,0 +1,8 @@
+yarn-error.log
+.vscode
+npm-debug.log
+dist
+out
+node_modules
+stats.json
+report.html
